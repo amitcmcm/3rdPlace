@@ -1,0 +1,5 @@
+models: ee885b 74490f be2941 12d9d0 2bb4c1 98657b 97e861 9c74c1 867fb9 9a6d88 4e31bc dade22
+kaggle submission score: 0.334 priv 0.368 pub
+
+models: 'f22bdd, aba8c8, 4e31bc, 867fb9, 9a6d88, dade22, ee885b, 74490f, be2941, 12d9d0, 61d688, 3c1c16, ca0943, 70f7ab, fa70b2, 334176, a2a2c4, 6136f8'
+kaggle submission score: 0.351 priv 0.374 pub
